@@ -1,0 +1,28 @@
+body {
+	background-color: aliceblue ;
+    font-family: 'Lexend Mega', sans-serif;
+
+
+}
+
+p1 {
+  border-left: 10px solid blue;
+  background-color: lightgrey;
+
+}
+
+p3 { 
+	border-left: 10px solid red; 
+	background-color: lightcoral;
+
+}
+
+p5 { 
+	border-left: 10px solid purple; 
+	background-color: plum; 
+
+}
+
+input[type=submit] {
+    width: 20em;  height: 4em;
+}
